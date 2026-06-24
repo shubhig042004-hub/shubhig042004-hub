@@ -21,6 +21,14 @@
 
 ###
 
+<h2 data-importer="text" align="left">Certificates</h2>
+
+###
+
+<p data-importer="text" align="left">1. Artificial Intelligence Certificate<br>2. Generative AI Certification <br>3. Machine Learning Certification <br>4. Microsoft Azure Certificate</p>
+
+###
+
 <h2 data-importer="text" align="left">Skills</h2>
 
 ###
@@ -83,10 +91,6 @@
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Shubhi-Gupta19/Shubhi-Gupta19/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<p data-importer="text" align="left">🧠 Certificates<br>1. Generative AI Certification <br>2. Machine Learning Certification <br>3. Cloud Computing Basics <br>4. Artificial Intelligence Certificate</p>
 
 ###
 
