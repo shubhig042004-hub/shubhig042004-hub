@@ -65,7 +65,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Shubhi-Gupta19/Shubhi-Gupta19/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Shubhi-Gupta19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -84,5 +83,15 @@
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Shubhi-Gupta19/Shubhi-Gupta19/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<p data-importer="text" align="left">🧠 Certificates<br>1. Generative AI Certification <br>2. Machine Learning Certification <br>3. Cloud Computing Basics <br>4. Artificial Intelligence Certificate</p>
+
+###
+
+<div data-importer="profile-views" align="right">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Shubhi-Gupta19.Shubhi-Gupta19&"  />
+</div>
 
 ###
